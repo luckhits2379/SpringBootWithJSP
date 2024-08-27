@@ -11,7 +11,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world! I am using Spring Boot MVC</h1>
+    <h1>Hello, world! I am using Spring Boot MVC with DevTools</h1>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
